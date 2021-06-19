@@ -1,0 +1,44 @@
+body {
+    background-image: url(../images/circle-blues.png);
+}
+
+#container {
+    background-color: white;
+    padding: 45px;
+    margin: 50px;
+    margin-top: 55px;
+    width: 70%;
+    margin-bottom: 55px;
+    text-align: center;
+    
+   
+}
+.nav {
+    background-color: #ffffff;
+}
+#footer {
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: auto;
+
+}
+#contact {
+    Display: flex;
+        Align-Items: center;
+        Justify-Content: center;
+}
+#skills {
+    Display: flex;
+    Align-Items: center;
+    Justify-Content: center;
+    font-size: larger;
+}
+#about {
+    font-size: large;
+}

@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Code Tube",
+        "description": "Learn to code with Code Tube!",
+        "repo": "https://github.com/Jacobn88/CodeTube",
+        "image": "https://i.imgur.com/G6loJHR.png",
+        "deployed": "https://codetube-p2.herokuapp.com"
+    },
+    {
+        "name": "The Hunger Game",
+        "description": "Filter based recipe generator.",
+        "repo": "https://s2hon.github.io/TheHungerGame/",
+        "image": "https://i.imgur.com/1xu4RzF.png",
+        "deployed": "https://s2hon.github.io/TheHungerGame"
+    },
+    {
+        "name": "Weather Dashboard",
+        "description": "Search a city name to see the weather.",
+        "repo": "https://github.com/Jacobn88/Weather",
+        "image": "https://i.imgur.com/zVpxWS4.png",
+        "deployed": "https://jacobn88.github.io/Weather"
+    },
+    {
+        "name": "Password generator",
+        "description": "Generates a custom random password.",
+        "repo": "https://github.com/Jacobn88/Password",
+        "image": "https://i.imgur.com/bgkCyow.png",
+        "deployed": "https://jacobn88.github.io/Password"
+    },
+    {
+        "name": "Note Taker",
+        "description": "Convenient place to store your notes.",
+        "repo": "https://github.com/Jacobn88/Note_taker",
+        "image": "https://i.imgur.com/5OJEGtJ.png",
+        "deployed": "https://cryptic-eyrie-01303.herokuapp.com/notes"
+    },
+    {
+        "name": "Readme Generator",
+        "description": "Command line tool that generates a readme in markdown.",
+        "repo": "https://github.com/Jacobn88/ReadMe_Generator",
+        "image": "https://i.imgur.com/BKhvhQc.png",
+        "deployed": ""
+    }
+
+]
