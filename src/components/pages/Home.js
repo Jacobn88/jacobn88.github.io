@@ -10,14 +10,15 @@ const Home = () => (
   <Container id="container">
     
     <Row>
-      <Col xs={6} md={4}>
+      <Col>
         <Image src={me} />
       </Col>
-      <Col xs={12} md={8}>
+      <Col>
           <h1>AboutMe</h1>
-          <p id="about">Hi, my name is Jacob Nelson and thanks for taking a look at my portfolio. I'm currently
-          living in Austin, TX and attending the University of Texas where I'm learning the skills
-          needed to become a full stack web developer.</p>
+          <p id="about">Ambitious Jr. Web Developer and recent graduate of the University of Texas at 
+          Austin's Full-Stack Coding Boot Camp Certificate Program. Front-end focused but familiar with 
+          back-end development. Experienced in industry best practices of web and application development 
+          from concept to final production.</p>
           
       </Col>
     </Row>

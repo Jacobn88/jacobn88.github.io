@@ -5,26 +5,33 @@ import Container from 'react-bootstrap/Container';
 
 const Skills = () => (
   <Container id="container">
-    
-  
-        <h3>Programming skills and proficiencies</h3>
-        <div id="skills">
-        <ul>
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>Javascript</li>
-          <li>APIs</li>
-          <li>Nodejs</li>
-          <li>O.O.P.</li>
-          <li>Express</li>
-          <li>SQL</li>
-          <li>Mongodb</li>
-          <li>PWA</li>
-          <li>React</li>
-        </ul>
-      </div>  
 
-</Container>
+    <div class="skills">
+      <h3>Proficient With</h3>
+
+      <ul>
+        <li>HTML 5</li>
+        <li>CSS</li>
+        <li>Bootstrap</li>
+        <li>Javascript</li>
+        <li>React</li>
+        <li>Github</li>
+      </ul>
+    </div>
+    <div class="skills">
+      <h3> Experienced With</h3>
+      <ul>
+        <li>Object Oriented Programming</li>
+        <li>Test Driven Development</li>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>SQL</li>
+        <li>Mongodb</li>
+        <li>APIs, CNDs and much more!</li>
+      </ul>
+    </div>
+
+  </Container>
 );
 
 export default Skills;

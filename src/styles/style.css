@@ -33,11 +33,10 @@ body {
         Align-Items: center;
         Justify-Content: center;
 }
-#skills {
-    Display: flex;
-    Align-Items: center;
-    Justify-Content: center;
-    font-size: larger;
+.skills {
+    max-width:80%; 
+    margin:auto;  
+    text-align:left;
 }
 #about {
     font-size: large;

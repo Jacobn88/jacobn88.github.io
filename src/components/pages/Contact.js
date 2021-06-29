@@ -8,7 +8,8 @@ const Contact = () => (
   <Container id="container">
     <div>
     <h2>Jacob Nelson</h2>
-    <h2>Nelsonjacob1988@gmail.com</h2>
+    <h2>NelsonJacob1988@gmail.com</h2>
+    <h2>512-417-4166</h2>
     </div>
     <div id="contact">
     <a href="http://www.linkedin.com/in/jacobn88">
