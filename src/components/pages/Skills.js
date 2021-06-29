@@ -14,7 +14,7 @@ const Skills = () => (
           <ul>
             <li>HTML 5</li>
             <li>CSS</li>
-            <li>Bootstrap</li>
+            <li>Bootstrap and other CSS frameworks</li>
             <li>Javascript</li>
             <li>React</li>
             <li>Github</li>
@@ -25,6 +25,7 @@ const Skills = () => (
         <div class="skills">
           <h3> Experienced With</h3>
           <ul>
+            <li>jQuery</li>
             <li>Object Oriented Programming</li>
             <li>Test Driven Development</li>
             <li>Node.js</li>
