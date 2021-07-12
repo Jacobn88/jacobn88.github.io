@@ -11,7 +11,7 @@ const Home = () => (
     
     <Row>
       <Col>
-        <Image src={me} />
+        <Image src={me} id="picture"/>
       </Col>
       <Col>
           <h1>About Me</h1>

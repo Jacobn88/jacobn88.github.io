@@ -41,3 +41,22 @@ body {
 #about {
     font-size: large;
 }
+
+@media screen and (max-width: 600px) {
+    #picture {
+      width: 200px;
+      height: 200px;
+    }
+  }
+@media screen and (max-width: 400px) {
+      #picture {
+        width: 150px;
+        height: 150px;
+      }
+  }
+  @media screen and (max-width: 300px) {
+    #picture {
+      width: 100px;
+      height: 100px;
+    }
+}  
