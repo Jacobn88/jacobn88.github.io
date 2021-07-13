@@ -13,17 +13,12 @@ body {
 }
 .nav {
     background-color: #ffffff;
+    position: sticky; top: 0;
 }
 #footer {
-    height: 40px;
-    width: 100%;
-    position: fixed;
-    left:0;
-    bottom:0;
-    right:0;
     background-color: #ffffff;
     text-align: center;
-    margin-top: auto;
+    margin: auto;
 
 }
 #contact {
