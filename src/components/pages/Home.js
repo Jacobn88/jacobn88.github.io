@@ -13,7 +13,7 @@ const Home = () => (
       <Col>
         <Image src={me} id="picture"/>
       </Col>
-      <Col>
+      <Col lg>
           <h1>About Me</h1>
           <p id="about">My name is Jacob Nelson, I'm 32 years old and I live in sunny Austin, Tx. I'm an 
           ambitious Jr. Web Developer and recent graduate of the University of Texas at 

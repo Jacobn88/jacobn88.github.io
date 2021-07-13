@@ -5,13 +5,11 @@ body {
 #container {
     background-color: white;
     padding: 45px;
-    margin: 50px;
+    /* margin: 50px; */
     margin-top: 55px;
-    width: 70%;
+    width: auto;
     margin-bottom: 55px;
     text-align: center;
-    
-   
 }
 .nav {
     background-color: #ffffff;
@@ -41,22 +39,39 @@ body {
 #about {
     font-size: large;
 }
-
+p {
+    word-wrap: break-word;
+}
+h2 {
+    word-wrap: break-word;
+}
+@media screen and (max-width: 1000px) {
+    #picture {
+      width: 300px;
+      height: 300px;
+    }
+}
 @media screen and (max-width: 600px) {
     #picture {
       width: 200px;
       height: 200px;
     }
-  }
+}
 @media screen and (max-width: 400px) {
       #picture {
         width: 150px;
         height: 150px;
-      }
-  }
-  @media screen and (max-width: 300px) {
+    }
+}
+@media screen and (max-width: 300px) {
     #picture {
       width: 100px;
       height: 100px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #container {
+      width: 300px;
     }
 }  

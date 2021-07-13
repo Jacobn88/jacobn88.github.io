@@ -11,8 +11,8 @@ function Project(props) {
     return (
         <Container id="container">
             <Row>
-                <Col xs={6} md={4}><Image style={{ width: 200, height: 200}} src={props.image} /> </Col>
-                <Col xs={12} md={8}>
+                <Col lg><Image style={{ width: 200, height: 200}} src={props.image} /> </Col>
+                <Col sm>
                     <p><strong>{props.name}</strong></p>
                     <p><strong>{props.description}</strong></p>
                     <p>Github Repo: <a href={props.repo}>{props.repo}</a></p>
