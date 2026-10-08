@@ -15,11 +15,7 @@ const Home = () => (
       </Col>
       <Col lg>
           <h1>About Me</h1>
-          <p id="about">My name is Jacob Nelson, I'm 32 years old and I live in sunny Austin, Tx. I'm an 
-          ambitious Jr. Web Developer and recent graduate of the University of Texas at 
-          Austin's Full-Stack Coding Boot Camp Certificate Program. Front-end focused but familiar with 
-          back-end development. Experienced in industry best practices of web and application development 
-          from concept to final production.</p>
+          <p id="about">My name is Jacob Nelson, and I'm based in the Denver area. I earned a Full-Stack Coding Boot Camp Certificate from The University of Texas at Austin, where I built projects with HTML, CSS, JavaScript, and React, along with some back-end work in Node.js, Express, and SQL. Since then I've spent two years as a search quality rater for Telus Digital, evaluating web content for accuracy and relevance. I'm detail-oriented, comfortable working remotely, and looking for roles in QA, content review, and technical support.</p>
           
       </Col>
     </Row>
