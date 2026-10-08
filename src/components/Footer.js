@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <footer class="fixed-bottom">
-            <p id="footer">Copyright 2021 Jacob Nelson</p>
+            <p id="footer">Copyright 2026 Jacob Nelson</p>
         </footer>
     );
 }
