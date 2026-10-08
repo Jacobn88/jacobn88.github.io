@@ -4,12 +4,12 @@
         "description": "Learn to code with Code Tube!",
         "repo": "https://github.com/Jacobn88/CodeTube",
         "image": "https://i.imgur.com/G6loJHR.png",
-        "deployed": "https://codetube-p2.herokuapp.com"
+        "deployed": ""
     },
     {
         "name": "The Hunger Game",
         "description": "Filter based recipe generator.",
-        "repo": "https://s2hon.github.io/TheHungerGame/",
+        "repo": "https://github.com/s2hon/TheHungerGame",
         "image": "https://i.imgur.com/1xu4RzF.png",
         "deployed": "https://s2hon.github.io/TheHungerGame"
     },
@@ -32,7 +32,7 @@
         "description": "Convenient place to store your notes.",
         "repo": "https://github.com/Jacobn88/Note_taker",
         "image": "https://i.imgur.com/5OJEGtJ.png",
-        "deployed": "https://cryptic-eyrie-01303.herokuapp.com/notes"
+        "deployed": ""
     },
     {
         "name": "Readme Generator",
