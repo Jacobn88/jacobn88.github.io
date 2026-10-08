@@ -16,7 +16,7 @@ function Project(props) {
                     <p><strong>{props.name}</strong></p>
                     <p><strong>{props.description}</strong></p>
                     <p>Github Repo: <a href={props.repo}>{props.repo}</a></p>
-                    <p>Deployed Link: <a href={props.deployed}>{props.deployed}</a></p>
+                    {props.deployed && <p>Deployed Link: <a href={props.deployed}>{props.deployed}</a></p>}
                 </Col>
             </Row>
         </Container>
